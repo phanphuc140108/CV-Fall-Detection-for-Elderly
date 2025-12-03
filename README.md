@@ -11,7 +11,7 @@ A real-time fall-detection pipeline leveraging MediaPipe pose estimation and rul
 * [Tech Used](#5-tech-stack).
 * [Applications](#6-applications).
 * [Future Improvements](#7-future-improvements).
-* [Dataset (Videos For Testing)(#references).
+* [Dataset](#references).
 <!-- TOC end -->
 
 ---
