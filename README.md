@@ -4,12 +4,18 @@ A real-time fall-detection pipeline leveraging MediaPipe pose estimation and rul
 <!-- TOC start -->
 
 ## TABLE OF CONTENTS
-[Background Information](#1-background)
-[PROPOSED SOLUTION](#2.PROPOSED SOLUTION).
+* [Background Information](#1-background:).
+* [Solution](#2-proposed-solution:).
+* [Requirements](#3-requirements:).
+* [System Logic](#4-system-logic:)
+* [Tech Used](#5-tech-stack:)
+* [Applications](#6-applications:)
+* [Future Improvements](#7-future-improvements:)
 <!-- TOC end -->
 
 ---
-## 1. BACKGROUND
+## 1. BACKGROUND:
+
 - According to the World Health Organization (WHO), over 37 million falls requiring medical intervention occur each year worldwide.
 
 - Falls are the leading cause of serious injuries and unintentional death among adults over 65.
@@ -18,7 +24,8 @@ A real-time fall-detection pipeline leveraging MediaPipe pose estimation and rul
 
 - Without timely assistance, even a minor fall can escalate into severe or life-threatening complications.
 
-## 2. PROPOSED SOLUTION: A lightweight, camera-based monitoring system.
+## 2. PROPOSED SOLUTION: 
+A lightweight, camera-based monitoring system.
 
 ### General Workflow: Camera data → Pose estimation → Severity evaluation → Appropriate response.
 
