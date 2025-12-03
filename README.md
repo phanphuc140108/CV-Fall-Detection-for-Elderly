@@ -2,7 +2,6 @@
 A real-time fall-detection pipeline leveraging MediaPipe pose estimation and rule-based logic. Built to monitor human posture, detect critical movements, and provide responsive alerts for elderly safety.
 ---
 ## TABLE OF CONTENTS:
-1. [1. BACKGROUND] (#Background Information)
 ---
 ## 1. BACKGROUND
 - According to the World Health Organization (WHO), over 37 million falls requiring medical intervention occur each year worldwide.
