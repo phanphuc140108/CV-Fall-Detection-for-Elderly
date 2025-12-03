@@ -40,7 +40,7 @@ A lightweight, camera-based monitoring system.
 ## 3. REQUIREMENTS
 
 ### Check the main requirements file at [REQUIREMENTS](https://github.com/phanphuc140108/Responsive-AI-system-for-Elderly-Falls/blob/main/requirements.txt)
-### This is the general ones:
+### These are the general ones:
 
 - Works reliably with predefined camera setups.
 
