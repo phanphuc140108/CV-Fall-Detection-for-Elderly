@@ -4,12 +4,12 @@ A real-time fall-detection pipeline leveraging MediaPipe pose estimation and rul
 <!-- TOC start -->
 
 ## TABLE OF CONTENTS
-* [Background Information](#1background)
-* [PROPOSED SOLUTION](#2.PROPOSED SOLUTION).
+[Background Information](#1-background)
+[PROPOSED SOLUTION](#2.PROPOSED SOLUTION).
 <!-- TOC end -->
 
 ---
-### 1. BACKGROUND
+## 1. BACKGROUND
 - According to the World Health Organization (WHO), over 37 million falls requiring medical intervention occur each year worldwide.
 
 - Falls are the leading cause of serious injuries and unintentional death among adults over 65.
